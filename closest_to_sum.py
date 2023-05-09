@@ -17,8 +17,4 @@ def closest_to_sum(a, b, t):
             i += 1
         else:
             j -= 1
-<<<<<<< HEAD
     return closest
-=======
-    return closest
->>>>>>> 0754effed978f63e5acb74f1e33af247884b13bb
